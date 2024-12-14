@@ -1,6 +1,11 @@
 # NameOfApp
 # Features:
-.asdad
-.asda
+* Feature 1
+  * some explanation 
+* Feature 2
+  * Item 3
 
-# Data Structures used:
+# Data Structures:
+* Data Structure 1 - used for feature x
+* .....
+* Data Structure n - .....
