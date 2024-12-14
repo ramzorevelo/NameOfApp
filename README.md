@@ -1,3 +1,3 @@
 # NameOfApp
-Features:
-Data Structures used:
+# Features:
+# Data Structures used:
